@@ -1,2 +1,1 @@
-# roblox-funcaptcha-solver
-Solve funcaptcha with python
+# latam search offer script with captcha solving working
